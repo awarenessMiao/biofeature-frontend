@@ -1,6 +1,10 @@
 .DS_Store
 node_modules
 /dist
+/data
+*.doc*
+*.ppt*
+*.tmp
 
 
 # local env files
